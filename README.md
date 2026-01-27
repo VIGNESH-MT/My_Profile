@@ -1,19 +1,38 @@
-# My_Profile
+My_Profile
+Research-Grade Portfolio | AI Systems • Data Science • System Thinking
 
-This is a professional portfolio website built with **Next.js**, designed to showcase research, projects, publications, and system-level thinking.
+This repository hosts a research-oriented professional portfolio engineered with Next.js to document and communicate long-horizon work across artificial intelligence, data science, and systems engineering.
 
-## Tech Stack
-- Next.js (App Router)
-- React
-- TypeScript
-- Tailwind CSS
-- Vercel (deployment)
+The portfolio is designed not as a résumé replacement, but as a living research artifact—capturing intellectual trajectory, architectural thinking, and applied experimentation across academic and industry contexts.
 
-## Getting Started (Local Development)
+Research & Engineering Focus
 
-Run the development server:
+The portfolio emphasizes:
 
-```bash
+Doctoral-level research framing and problem decomposition
+
+System-level reasoning across data, models, and deployment layers
+
+Applied AI systems with attention to scalability, governance, and impact
+
+Clear articulation of research intent, methodology, and outcomes
+
+Technology Stack
+
+Next.js (App Router) — research-grade web architecture
+
+React — componentized interface logic
+
+TypeScript — strict type safety for production reliability
+
+Tailwind CSS — precise, minimal design system
+
+Vercel — global edge deployment with CDN acceleration
+
+Local Development
+
+To run the portfolio locally:
+
 npm run dev
 # or
 yarn dev
@@ -21,27 +40,43 @@ yarn dev
 pnpm dev
 # or
 bun dev
-Open http://localhost:3000
- in your browser.
 
-You can start editing pages inside the app/ directory. Changes auto-update during development.
 
-Project Structure Highlights
+Open http://localhost:3000 in your browser.
 
-app/research – Research focus & direction
+The project uses the Next.js App Router. Changes made within the app/ directory are reflected in real time during development.
 
-app/publications – Academic & technical writing
+Structural Overview
 
-app/system-thinking – Systems-level problem framing
+The portfolio is organized as a modular research system:
 
-app/ai-systems – AI architecture & applied systems
+app/research
+Research direction, problem statements, and inquiry framing
 
-app/ethics – Responsible AI & governance
+app/publications
+Academic, technical, and long-form analytical writing
+
+app/system-thinking
+System decomposition, abstractions, and design reasoning
+
+app/ai-systems
+AI architectures, pipelines, and applied system implementations
+
+app/ethics
+Responsible AI, governance considerations, and societal impact
+
+This structure is intentionally designed to scale with future research outputs, collaborations, and doctoral work.
+
 
 Deployment
 
-This project is deployed using Vercel with global CDN support.
+The portfolio is deployed via Vercel, leveraging a global CDN for low-latency access across regions.
+Production builds enforce strict TypeScript and Next.js checks to ensure deployment-grade reliability.
+
+Live site:
+👉 https://portfolio-beryl-omega-62.vercel.app/
 
 License
 
-Personal portfolio — all rights reserved.
+Personal research and professional portfolio.
+All rights reserved.
