@@ -56,6 +56,7 @@ Vercel — globally distributed deployment
 The architecture intentionally avoids unnecessary abstraction layers.
 
 Structural Overview
+```bash
 app/
 │
 ├── research/           # Research direction and problem statements
@@ -64,7 +65,7 @@ app/
 ├── ai-systems/         # Applied AI pipelines and system implementations
 ├── ethics/             # Governance, responsible AI, societal considerations
 └── layout.tsx          # Global structural composition
-
+```
 
 Each directory corresponds to a conceptual layer of inquiry.
 ---
@@ -89,27 +90,28 @@ cd My_Profile
 
 ---
 Install dependencies:
-
+```
 npm install
-
+```
 ---
 Start development server:
-
+```
 npm run dev
-
+```
 ---
 Alternative package managers:
-
+```
 yarn dev
 
 pnpm dev
 
 bun dev
-
+```
 ---
 Then open:
-
+```
 http://localhost:3000
+```
 ---
 
 The project uses the Next.js App Router.
@@ -118,14 +120,14 @@ Changes inside the app/ directory reflect immediately during development.
 Production Build
 
 Build the project:
-
+```
 npm run build
 
-
+```
 Start production server locally:
-
+```
 npm run start
-
+```
 Deployment
 
 Deployment is handled via Vercel.
@@ -141,8 +143,9 @@ Strict TypeScript enforcement
 Zero-downtime deployment
 
 Live deployment:
-
+```
 https://portfolio-beryl-omega-62.vercel.app/
+```
 ---
 Intended Audience
 
