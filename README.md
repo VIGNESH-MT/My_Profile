@@ -1,5 +1,5 @@
 ## Research Systems Portfolio
-**Artificial Intelligence · Data Science · System Thinking
+** Artificial Intelligence · Data Science · System Thinking
 Abstract
 
 This repository contains a research-oriented professional portfolio engineered as a structured intellectual artifact.
