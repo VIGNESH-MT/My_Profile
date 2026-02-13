@@ -11,35 +11,35 @@ It is a modular research system designed to document long-horizon work across ar
 
 The portfolio evolves as a living research substrate, capturing intellectual trajectory across academic and industry contexts.
 ---
-Research & Engineering Focus
+## Research & Engineering Focus
 
--- The portfolio emphasizes:
+- The portfolio emphasizes:
 
--- Formal problem framing and research design
+- Formal problem framing and research design
 
-System-level reasoning across data, models, and deployment layers
+- System-level reasoning across data, models, and deployment layers
 
-Applied AI systems with attention to scalability, governance, and impact
+- Applied AI systems with attention to scalability, governance, and impact
 
-Clear articulation of research intent, methodology, and outcomes
+- Clear articulation of research intent, methodology, and outcomes
 
-The structure is intentionally designed to scale with future research outputs, collaborations, and doctoral work.
+- The structure is intentionally designed to scale with future research outputs, collaborations, and doctoral work.
 ---
-Engineering Philosophy
+## Engineering Philosophy
 
-This portfolio is built as a modular knowledge system.
+- This portfolio is built as a modular knowledge system.
 
-Each section represents a bounded domain of inquiry, designed to scale with:
+- Each section represents a bounded domain of inquiry, designed to scale with:
 
-Doctoral research progression
+- Doctoral research progression
 
-Industrial AI systems development
+- Industrial AI systems development
 
-Cross-disciplinary experimentation
+- Cross-disciplinary experimentation
 
-Academic and technical publications
+- Academic and technical publications
 
-Clarity, structure, and conceptual rigor are prioritized over visual excess.
+- Clarity, structure, and conceptual rigor are prioritized over visual excess.
 ---
 Technology Stack
 
