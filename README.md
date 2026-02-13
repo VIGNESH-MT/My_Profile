@@ -3,13 +3,13 @@
 ---
 Abstract
 
-This repository contains a research-oriented professional portfolio engineered as a structured intellectual artifact.
+- This repository contains a research-oriented professional portfolio engineered as a structured intellectual artifact.
 
-It is not a résumé replacement.
+- It is not a résumé replacement.
 
-It is a modular research system designed to document long-horizon work across artificial intelligence, data science, and systems engineering — with emphasis on formal problem framing, architectural reasoning, and applied experimentation.
+- It is a modular research system designed to document long-horizon work across artificial intelligence, data science, and systems engineering — with emphasis on formal problem framing, architectural reasoning, and applied experimentation.
 
-The portfolio evolves as a living research substrate, capturing intellectual trajectory across academic and industry contexts.
+- The portfolio evolves as a living research substrate, capturing intellectual trajectory across academic and industry contexts.
 ---
 ## Research & Engineering Focus
 
@@ -69,7 +69,7 @@ app/
 
 Each directory corresponds to a conceptual layer of inquiry.
 ---
-Conceptual Model
+## Conceptual Model
 
 The portfolio follows a layered intellectual model:
 
@@ -130,44 +130,44 @@ npm run start
 ```
 Deployment
 
-Deployment is handled via Vercel.
+- Deployment is handled via Vercel.
 
-Properties:
+## Properties:
 
-Edge-distributed CDN
+- Edge-distributed CDN
 
-Automatic production builds
+- Automatic production builds
 
-Strict TypeScript enforcement
+- Strict TypeScript enforcement
 
-Zero-downtime deployment
+- Zero-downtime deployment
 
 Live deployment:
 ```
 https://portfolio-beryl-omega-62.vercel.app/
 ```
 ---
-Intended Audience
+## Intended Audience
 
 This portfolio is structured for:
 
-Research supervisors
+- Research supervisors
 
-AI system architects
+- AI system architects
 
-Principal engineers
+- Principal engineers
 
-Academic collaborators
+- Academic collaborators
 
-Deep-technology teams
+- Deep-technology teams
 
 It assumes technical literacy and interest in structured inquiry.
 ---
-Position
+## Position
 
-This repository represents an ongoing commitment to disciplined research and system-level thinking across AI and data-driven engineering.
+- This repository represents an ongoing commitment to disciplined research and system-level thinking across AI and data-driven engineering.
 
-It is designed as a long-term research record — not a static showcase. 
+- It is designed as a long-term research record — not a static showcase. 
 --- 
 Enterprise License — Contact for Commercial Deployment
 ---
