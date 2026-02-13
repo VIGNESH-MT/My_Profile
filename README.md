@@ -41,19 +41,19 @@ The portfolio evolves as a living research substrate, capturing intellectual tra
 
 - Clarity, structure, and conceptual rigor are prioritized over visual excess.
 ---
-Technology Stack
+## Technology Stack
 
-Next.js (App Router) — structured routing and server components
+- Next.js (App Router) — structured routing and server components
 
-React — composable interface logic
+- React — composable interface logic
 
-TypeScript (strict mode) — type safety and structural reliability
+- TypeScript (strict mode) — type safety and structural reliability
 
-Tailwind CSS — minimal, constraint-driven design system
+- Tailwind CSS — minimal, constraint-driven design system
 
-Vercel — globally distributed deployment
+- Vercel — globally distributed deployment
 ---
-The architecture intentionally avoids unnecessary abstraction layers.
+## The architecture intentionally avoids unnecessary abstraction layers.
 
 Structural Overview
 ```bash
