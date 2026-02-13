@@ -167,9 +167,17 @@ Position
 
 This repository represents an ongoing commitment to disciplined research and system-level thinking across AI and data-driven engineering.
 
-It is designed as a long-term research record — not a static showcase.
+It is designed as a long-term research record — not a static showcase. 
+--- 
+Enterprise License — Contact for Commercial Deployment
 ---
-License
+Author
+
+Vignesh Murugesan 
+
+AI Systems Architect Building Enterprise-Grade Industrial  Research Intelligence Platforms
 
 Personal research and professional portfolio.
+
 All rights reserved.
+
