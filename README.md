@@ -173,11 +173,10 @@ Enterprise License — Contact for Commercial Deployment
 ---
 Author
 
-Vignesh Murugesan 
-
-AI Systems Architect Building Enterprise-Grade Industrial  Research Intelligence Platforms
-
-Personal research and professional portfolio.
+Vignesh Murugesan
+- AI Systems Architect | Applied ML Engineer.
+- Building Enterprise-Grade Industrial  Research Intelligence Platforms
+- Personal research and professional portfolio.
 
 All rights reserved.
 
