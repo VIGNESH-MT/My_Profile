@@ -13,9 +13,9 @@ The portfolio evolves as a living research substrate, capturing intellectual tra
 ---
 Research & Engineering Focus
 
-The portfolio emphasizes:
+-- The portfolio emphasizes:
 
-Formal problem framing and research design
+-- Formal problem framing and research design
 
 System-level reasoning across data, models, and deployment layers
 
